@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nanashi193.nanashi193&left_text=university"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nanashi193.nanashi193&left_text=visitors"  />
 </div>
 
 ###
