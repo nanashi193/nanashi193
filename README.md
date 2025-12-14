@@ -10,6 +10,8 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nanashi193.nanashi193&left_text=visitors"  />
+  <img src="https://img.shields.io/badge/🎓university-FPT-orange?style=flat" alt="university"/>
+  <img src="https://img.shields.io/badge/hobby-japanese%20culture-green?style=flat" alt="hobby"/>
 </div>
 
 ###
@@ -55,8 +57,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nanashi193&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nanashi193&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  /> <br>
+  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" /> <br>
 </div>
 
 ###
@@ -69,6 +71,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
+  <a href="https://www.facebook.com/qhunggg" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
 </div>
 
