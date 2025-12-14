@@ -57,8 +57,9 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nanashi193&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  /> <br>
-  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=nanashi193&show_icons=true&hide_border=false&border_radius=5&bg_color=0d1117&title_color=E0B0FF&icon_color=9D4EDD&text_color=ffffff" height="170" alt="stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&hide_border=false&border_radius=5&background=0d1117&ring=9D4EDD&fire=E0B0FF&currStreakLabel=E0B0FF" height="175" alt="streak graph" /> <br>
 </div>
 
 ###
