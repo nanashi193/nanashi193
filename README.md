@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nanashi193.nanashi193&left_text=visitors"  />
   <img src="https://img.shields.io/badge/🎓university-FPT-orange?style=flat" alt="university"/>
-  <img src="https://img.shields.io/badge/hobby-japanese%20culture-green?style=flat" alt="hobby"/>
+  <img src="https://img.shields.io/badge/hobby-japanese%20lifestyle-green?style=flat" alt="hobby"/>
 </div>
 
 ###
@@ -57,9 +57,9 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nanashi193&show_icons=true&hide_border=false&border_radius=5&bg_color=0d1117&title_color=E0B0FF&icon_color=9D4EDD&text_color=ffffff" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nanashi193&show_icons=true&hide_border=false&border_radius=5&bg_color=20232a&title_color=E0B0FF&icon_color=9D4EDD&text_color=ffffff" height="170" alt="stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&hide_border=false&border_radius=5&background=0d1117&ring=9D4EDD&fire=E0B0FF&currStreakLabel=E0B0FF" height="175" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=nanashi193&locale=en&mode=daily&hide_border=false&border_radius=5&background=20232a&ring=9D4EDD&fire=E0B0FF&currStreakLabel=ffffff" height="175" alt="streak graph" /> <br>
 </div>
 
 ###
